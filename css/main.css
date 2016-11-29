@@ -5,5 +5,5 @@
 
 .Links li {
   display: inline-block;
-  border-radius: 100%;
+  border-radius: auto;
 }
