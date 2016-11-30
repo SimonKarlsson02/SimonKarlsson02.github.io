@@ -1,3 +1,7 @@
+*  {
+  border: rgba(0,0,0,0.3);
+}
+
 h1 {
   color: green;
 }
